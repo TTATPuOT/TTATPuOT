@@ -7,7 +7,7 @@ JavaScript/PHP Developer
 * 🌍  I'm based in Saint-Petersburg
 * 🖥️  See my portfolio at [patriotovsky.ru](http://patriotovsky.ru/)
 * ✉️  You can contact me at [neverov12@gmail.com](mailto:neverov12@gmail.com)
-* 🚀  I'm currently working on [Neposedy](http://detsad.photo/)
+* 🚀  I'm currently working at Yandex
 
 ### Other contacts
 
